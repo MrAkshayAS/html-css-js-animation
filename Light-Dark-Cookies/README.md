@@ -28,7 +28,6 @@ The mode preference (either "dark" or "light") is stored in a cookie named "mode
 ## Transitions
 
 CSS transitions are applied to ensure smooth color transitions when switching between light and dark modes.
-
 This setup offers users a convenient way to toggle between light and dark modes while preserving their preference across sessions.
 
 ## Preview
