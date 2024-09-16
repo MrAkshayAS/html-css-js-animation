@@ -33,4 +33,4 @@ This setup offers users a convenient way to toggle between light and dark modes 
 
 ## Preview
 
-You can view a live preview of the Light/Dark Mode Toggle [here](https://mrakshayas.github.io/lightdarkmode/).
+### You can view a live preview of the Light/Dark Mode Toggle [here](https://mrakshayas.github.io/html-css-js-animation/Light-Dark-Cookies/).
